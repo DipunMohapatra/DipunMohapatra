@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DipunMohapatra.DipunMohapatra" />
 
 ## Hi there 👋
 I am a data Analyst with an MSc in Business Analytics from the University of Birmingham, UK, and hands-on experience analysing over 3M+ data points across five high-impact projects. Skilled in SQL, Tableau, Power BI, Python, and statistical modelling, I specialise in converting raw data into actionable business insights. I aim to help organisations unlock measurable value through predictive analytics, supply chain optimisation, and performance dashboarding, supporting smarter, data-led decisions across teams.
