@@ -1,7 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DipunMohapatra.DipunMohapatra" />
 
 ## Hi there 👋
-I am a data Analyst with an MSc in Business Analytics from the University of Birmingham, UK, and hands-on experience analysing over 3M+ data points across five high-impact projects. Skilled in SQL, Tableau, Power BI, Python, and statistical modelling, I specialise in converting raw data into actionable business insights. I aim to help organisations unlock measurable value through predictive analytics, supply chain optimisation, and performance dashboarding, supporting smarter, data-led decisions across teams.
+Data Analyst adept at translating complex data into actionable insights.
+
+Proficient In: Python, SQL, Power BI, Tableau, Predictive Analytics.
+
+Familiar With: R, Excel VBA, SPSS, MiniTab.
+
+Tech Stack: Microsoft Fabric, Azure, Alteryx.
+
+In my spare time, I enjoy reading books, exploring photography, and working out. I believe there’s a direct correlation between physical activity and mental clarity, creativity, and performance.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipun-mohapatra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipunmohapatraaa@gmail.com)
