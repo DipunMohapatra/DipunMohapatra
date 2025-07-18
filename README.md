@@ -10,7 +10,9 @@ Personally, I’m someone who hates when things are said without facts. I questi
 I recently completed my MSc in Business Analytics from the University of Birmingham, where I worked on several hands-on academic projects that pushed both my technical skills and strategic thinking. From building a high-recall stroke prediction model to running Monte Carlo simulations for supplier risk, I explored challenges that demanded clarity, rigour, and a whole lot of curiosity.
 
 Tools I use: SQL, Python (Pandas, Scikit-learn, Seaborn), Power BI, Tableau, Microsoft Fabric
+
 What I love: Challenging assumptions, finding patterns in noise, building dashboards that make people say “wait, really”
+
 Right now: Expanding my portfolio, diving into Microsoft Fabric (Microsoft's all stuff data in one place), and actively seeking roles where I can turn data into better decisions.
 
 Let’s connect if you value evidence over guesswork, or just want to talk about analytics, insights, or why correlation does not equal causation.
